@@ -1,0 +1,15 @@
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\bin\Debug\net8.0\C#Study.exe
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\bin\Debug\net8.0\C#Study.deps.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\bin\Debug\net8.0\C#Study.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\bin\Debug\net8.0\C#Study.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\bin\Debug\net8.0\C#Study.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.sourcelink.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\refint\C#Study.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\C#Study.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\ContribuinteAbstrato\AbstractClassMethod\obj\Debug\net8.0\ref\C#Study.dll
